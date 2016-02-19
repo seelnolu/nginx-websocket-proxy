@@ -24,7 +24,7 @@ This is a typical scenario given by [Engine.IO](https://github.com/LearnBoost/en
 
 * http://nginx.org/en/docs/http/websocket.html
 * [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx) – Great resource for nginx server config documentation
-
+* [Qualys SSL Labs] (https://www.ssllabs.com/ssltest/) - Online validation SSL
 
 ## Author
 
